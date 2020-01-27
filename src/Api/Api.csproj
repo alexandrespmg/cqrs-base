@@ -5,4 +5,7 @@
   </PropertyGroup>
 
 
+  <ItemGroup>
+    <Content Remove="Domain.Core\Properties\launchSettings.json" />
+  </ItemGroup>
 </Project>
